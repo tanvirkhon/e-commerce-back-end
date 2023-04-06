@@ -29,10 +29,12 @@ In order to run this application and test it you will need to follow the these s
 1. You must first need to create a DB using MySQL and running the DB schema located in the DB folder
 ![image](https://user-images.githubusercontent.com/119143763/230510933-16d8ea66-07f9-4ba3-96aa-680d86171816.png)
 
-2. Seed the database by running npm run seed
+2. Seed the database by running npm run seed:
+
 ![image](https://user-images.githubusercontent.com/119143763/230511059-280608b5-62b2-429c-850a-cd3e82dfc882.png)
 
 3. Run the server by running the npm start command: 
+
 ![image](https://user-images.githubusercontent.com/119143763/230511127-6295626a-5d6f-491b-8b6e-b2f4f8b9bc6b.png)
 
 4. Test the routes using a tool like Insomnia: 
